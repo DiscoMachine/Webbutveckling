@@ -162,3 +162,11 @@ background-color: #acffe3;
 .head-body-foot tfoot:hover {
     background-color: blue;
 }
+
+.scroll-bar {
+    overflow-x: auto;
+}
+
+.table-image {
+    margin: 0 auto;
+}
